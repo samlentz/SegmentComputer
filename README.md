@@ -9,3 +9,4 @@ GUI code currently in prototyping while GPS module and OLED display ship
 <p align="center">
   <img src="images/log.png" width="450" title="early screenshot">
 </p>
+ 
