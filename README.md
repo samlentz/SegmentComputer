@@ -7,5 +7,5 @@ Cycle computer based on raspberry pi which alerts users and tracks users during 
 GUI code currently in prototyping while GPS module and OLED display ship
 
 <p align="center">
-  <img src="images/log.PNG" width="450" title="early screenshot">
+  <img src="images/log.png" width="450" title="early screenshot">
 </p>
