@@ -10,3 +10,8 @@ GUI code currently in prototyping while GPS module and OLED display ship
   <img src="images/log.png" width="450" title="early screenshot">
 </p>
  
+# How to use
+
+Run jsongen.py when connected to wifi, this will download your starred segments
+
+Run apitest.py. This will connect to a neo 6-m gps module and an I2C OLED module displaying speed and time on ride. Ride on segements to display information about your favorite segements.
